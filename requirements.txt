@@ -1,0 +1,5 @@
+websocket-client
+pymongo
+python-dateutil
+fastapi
+uvicorn
