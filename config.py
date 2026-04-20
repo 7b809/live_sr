@@ -9,7 +9,7 @@ BASE_WS_URL = os.getenv("BASE_WS_URL")
 TIMEFRAME_MINUTES = int(os.getenv("TIMEFRAME_MINUTES", 5))
 LOOKBACK = int(os.getenv("LOOKBACK", 20))
 
-SECURITIES = ["51"]   # start with one (NIFTY-like)
+SECURITIES = ["13"]   # start with one (NIFTY-like)
 
 VOL_LEN = 2
 ATR_PERIOD = 200
