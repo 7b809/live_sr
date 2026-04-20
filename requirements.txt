@@ -3,3 +3,4 @@ pymongo
 python-dateutil
 fastapi
 uvicorn
+python-dotenv
